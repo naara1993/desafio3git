@@ -1,0 +1,12 @@
+ejercicio 1-
+En primer lugar verifico el estado actual del repositorio con el comando git status.
+De ser necesario guardo temporalmente los cambios  mediante una rama de respaldo usando el comando git branch
+Luego me cambio de rama a la master con git checkout. Luego elimino el archivo status.js
+Confirmo cambios en la rama master con un git commit y un mensaje descriptivo
+ejercicio 2-
+Verifico que los cambios esten completos y probados
+Luego cambio de rama hacia la master
+Luego fusiono los cambios de la rama front-react a la de master con git merge front-react
+Verificar que todo funcione bien
+Realizo el commit fusionados a la rama master y agrego un mensaje
+y subo los cambios al repositorio remoto
